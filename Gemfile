@@ -31,10 +31,10 @@ gem 'jbuilder', '~> 2.5'
 #Use Twitter Boostrap Library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
 
-#Use Font Awesome SASS Gem for adding icons
+# Use Font Awesome SASS Gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 
-#Use Hirb for better data output in console
+# Use Hirb for better data output in console
 gem 'hirb', '0.7.3'
 
 group :development, :test do
